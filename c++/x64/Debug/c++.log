@@ -1,0 +1,12 @@
+﻿  pp.cpp
+C:\Users\Anwar05\OneDrive\Bureau\c++\c++\pp.cpp(49,28): error C3861: 'getBrand' : identificateur introuvable
+C:\Users\Anwar05\OneDrive\Bureau\c++\c++\pp.cpp(49,39): error C2143: erreur de syntaxe : absence de ';' avant 'const'
+C:\Users\Anwar05\OneDrive\Bureau\c++\c++\pp.cpp(49,39): error C2059: erreur de syntaxe : 'const'
+C:\Users\Anwar05\OneDrive\Bureau\c++\c++\pp.cpp(49,45): error C2143: erreur de syntaxe : absence de ';' avant '{'
+C:\Users\Anwar05\OneDrive\Bureau\c++\c++\pp.cpp(49,45): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+C:\Users\Anwar05\OneDrive\Bureau\c++\c++\pp.cpp(53,9): error C2065: 'Brand' : identificateur non déclaré
+C:\Users\Anwar05\OneDrive\Bureau\c++\c++\pp.cpp(56,9): error C2270: 'getWheels' : modificateurs non autorisés sur les fonctions non membres
+C:\Users\Anwar05\OneDrive\Bureau\c++\c++\pp.cpp(61,1): error C2059: erreur de syntaxe : 'private'
+C:\Users\Anwar05\OneDrive\Bureau\c++\c++\pp.cpp(68,1): error C2059: erreur de syntaxe : '<L_GRAMMAR_end_class>'
+  projetc++.cpp
+  Génération de code en cours...
